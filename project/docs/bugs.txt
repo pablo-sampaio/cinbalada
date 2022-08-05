@@ -1,0 +1,18 @@
+ - no form test, o experimento às vezes fica travado (mixer nao chama evento?)
+
+ - ticks negativos ou muito altos (muda entre um e outro dependendo da conversão)
+   -> acoxambre nas funcoes de XML ligadas ao mixer !
+
+ - andamento salvo errado nos arquivos MIDI
+
+ - arquivos MIDI às vezes são exportados com compassos faltando
+   -> no muted-mixer, ver linha de código comentada !
+
+ - cada execução da aplicação gera diferentes escolhas
+    + mesmo a semente não salvando!
+    + pode ser alguma alteração na ordem de execução dos behaviours
+
+ - bugs intermitentes, aparentemente ligados à alocação de memória
+   + se tornou mais frequente ao mudar a base de padrões !?!?
+   + seria em TinyXml?
+   + melhora quando reinicia?

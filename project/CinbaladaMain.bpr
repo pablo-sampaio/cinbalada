@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!-- C++Builder XML Project -->
+<PROJECT>
+  <MACROS>
+    <VERSION value="BCB.06.00"/>
+    <PROJECT value="CinbaladaMain.exe"/>
+    <OBJFILES value="objs\CinbaladaMain.obj objs\CbPercRepertoire.obj objs\CbMixerAgent.obj 
+      objs\maxmidi.obj objs\MaxMidiDLL.obj objs\MaxMidiIn.obj 
+      objs\MaxMidiOut.obj objs\MaxMidiScore.obj objs\MaxMidiSMF.obj 
+      objs\MaxMidiSync.obj objs\MaxMidiTrack.obj objs\FmMidiEvent.obj 
+      objs\FmMidiFile.obj objs\FmMidiFileTrack.obj objs\FmMidiOutput.obj 
+      objs\FmAclMessage.obj objs\FmAgent.obj objs\FmAID.obj objs\FmBehaviour.obj 
+      objs\FmMessageQueue.obj objs\FmMessageTemplate.obj 
+      objs\FmServiceDescription.obj objs\FmTContainer.obj objs\FmWhitePage.obj 
+      objs\FmYellowPage.obj objs\tinystr.obj objs\tinyxml.obj 
+      objs\tinyxmlerror.obj objs\tinyxmlparser.obj 
+      objs\CbPercussionInstrument.obj objs\CbRhythmPattern.obj 
+      objs\CbRhythmPatternInfo.obj objs\CbXmlRhythmPatternInfoRepository.obj 
+      objs\MathUtil.obj objs\CbFacade.obj objs\CbMeter.obj 
+      objs\TestsInterface.obj objs\FrameExecutionPlan.obj 
+      objs\UserMainInterface.obj objs\AboutBox.obj objs\FormAddInstr.obj 
+      objs\FormChngeMeter.obj objs\FormChngeTempo.obj objs\FormNewConfig.obj 
+      objs\FormSplashScreen.obj objs\FormChngeBars.obj objs\CbRhythmicRole.obj 
+      objs\CbPercussionistAgent.obj objs\CbPercPerfHistory.obj 
+      objs\CbPercAgentNegotiation.obj objs\CbPercPlan.obj 
+      objs\CbRhythmicProject.obj objs\CbAgentChoicesStats.obj 
+      objs\CbMutedMixerAgent.obj objs\CbAbstractAgent.obj"/>
+    <RESFILES value="CinbaladaMain.res"/>
+    <IDLFILES value=""/>
+    <IDLGENFILES value=""/>
+    <DEFFILE value=""/>
+    <RESDEPEN value="$(RESFILES) Interface\TestsInterface.dfm 
+      Interface\Controls\FrameExecutionPlan.dfm 
+      Interface\Main\UserMainInterface.dfm Interface\Main\AboutBox.dfm 
+      Interface\Main\FormAddInstr.dfm Interface\Main\FormChngeMeter.dfm 
+      Interface\Main\FormChngeTempo.dfm Interface\Main\FormNewConfig.dfm 
+      Interface\Main\FormSplashScreen.dfm Interface\Main\FormChngeBars.dfm"/>
+    <LIBFILES value=""/>
+    <LIBRARIES value="DialogsEx.lib CinbaladaComponents.lib"/>
+    <SPARELIBS value="vcl.lib rtl.lib vclx.lib CinbaladaComponents.lib DialogsEx.lib"/>
+    <PACKAGES value="vcl.bpi rtl.bpi dbrtl.bpi adortl.bpi vcldb.bpi vclx.bpi bdertl.bpi 
+      vcldbx.bpi ibxpress.bpi dsnap.bpi cds.bpi bdecds.bpi qrpt.bpi teeui.bpi 
+      teedb.bpi tee.bpi dss.bpi teeqr.bpi visualclx.bpi visualdbclx.bpi 
+      dsnapcrba.bpi dsnapcon.bpi bcbsmp.bpi vclie.bpi xmlrtl.bpi inet.bpi 
+      inetdbbde.bpi inetdbxpress.bpi inetdb.bpi nmfast.bpi webdsnap.bpi 
+      bcbie.bpi websnap.bpi soaprtl.bpi dclocx.bpi dbexpress.bpi dbxcds.bpi 
+      indy.bpi bcb2kaxserver.bpi dclusr.bpi"/>
+    <PATHCPP value=".;CInBalada;CInBalada;MaximumMidi;MaximumMidi;MaximumMidi;MaximumMidi;MaximumMidi;MaximumMidi;MaximumMidi;MaximumMidi;FAMA\MIDI;FAMA\MIDI;FAMA\MIDI;FAMA\MIDI;FAMA;FAMA;FAMA;FAMA;FAMA;FAMA;FAMA;FAMA;FAMA;FAMA;TinyXml;TinyXml;TinyXml;TinyXml;CInBalada\RhythmPattern;CInBalada\RhythmPattern;CInBalada\RhythmPattern;CInBalada\RhythmPattern;Util;CInBalada;CInBalada\RhythmPattern;Interface;Interface\Controls;Interface\Main;Interface\Main;Interface\Main;Interface\Main;Interface\Main;Interface\Main;Interface\Main;Interface\Main;CInBalada\RhythmPattern;CInBalada;CInBalada;CInBalada;CInBalada;CInBalada;CInBalada\Statistics;CInBalada;CInBalada"/>
+    <PATHPAS value=".;"/>
+    <PATHRC value=".;"/>
+    <PATHASM value=".;"/>
+    <DEBUGLIBPATH value="$(BCB)\lib\debug"/>
+    <RELEASELIBPATH value="$(BCB)\lib\release"/>
+    <LINKER value="ilink32"/>
+    <USERDEFINES value="_DEBUG;_RWSTD_BOUNDS_CHECKING"/>
+    <SYSDEFINES value="_RTLDLL;NO_STRICT;USEPACKAGES"/>
+    <MAINSOURCE value="CinbaladaMain.cpp"/>
+    <INCLUDEPATH value="CInBalada\Statistics;Interface\Controls;Interface;Util;CInBalada\RhythmPattern;TinyXml;FAMA;Interface\Main;FAMA\MIDI;CInBalada\RhythmPatternInfo;MaximumMidi;CInBalada;&quot;C:\Arquivos de programas\Borland\CBuilder6\Projects&quot;;D:\Projetos\CInBaladaXE;$(BCB)\include;$(BCB)\include\vcl"/>
+    <LIBPATH value="CInBalada\Statistics;Interface\Controls;Interface;Util;CInBalada\RhythmPattern;TinyXml;FAMA;Interface\Main;FAMA\MIDI;CInBalada\RhythmPatternInfo;MaximumMidi;CInBalada;&quot;C:\Arquivos de programas\Borland\CBuilder6\Projects&quot;;D:\Projetos\CInBaladaXE;$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib"/>
+    <WARNINGS value="-w-par"/>
+    <OTHERFILES value=""/>
+  </MACROS>
+  <OPTIONS>
+    <IDLCFLAGS value="-ICInBalada\Statistics -IInterface\Controls -IInterface -IUtil 
+      -ICInBalada\RhythmPattern -ITinyXml -IFAMA -IInterface\Main -IFAMA\MIDI 
+      -ICInBalada\RhythmPatternInfo -IMaximumMidi -ICInBalada 
+      -I&quot;C:\Arquivos de programas\Borland\CBuilder6\Projects&quot; 
+      -ID:\Projetos\CInBaladaXE -I$(BCB)\include -I$(BCB)\include\vcl 
+      -src_suffix cpp -D_DEBUG -D_RWSTD_BOUNDS_CHECKING _STLP_RANGE_ERRORS_H -boa"/>
+    <CFLAG1 value="-Od -H=$(BCB)\lib\vcl60.csm -Hc -Vx -Ve -X- -r- -a8 -4 -b- -k -y -v -vi- 
+      -c -tW -tWM"/>
+    <PFLAGS value="-N2objs -N0objs -$YD -$W -$O- -$A8 -v -JPHNE -M"/>
+    <RFLAGS value=""/>
+    <AFLAGS value="/mx /w2 /zd"/>
+    <LFLAGS value="-Iobjs -D&quot;&quot; -H:0x1000000 -Hc:0x10000 -S:0x1000000 -Sc:0x10000 -aa -Tpe -x 
+      -Gn -v"/>
+    <OTHERFILES value=""/>
+  </OPTIONS>
+  <LINKER>
+    <ALLOBJ value="c0w32.obj $(PACKAGES) Memmgr.Lib sysinit.obj $(OBJFILES)"/>
+    <ALLRES value="$(RESFILES)"/>
+    <ALLLIB value="$(LIBFILES) $(LIBRARIES) import32.lib cp32mti.lib"/>
+    <OTHERFILES value=""/>
+  </LINKER>
+  <FILELIST>
+      <FILE FILENAME="CinbaladaMain.res" FORMNAME="" UNITNAME="CinbaladaMain.res" CONTAINERID="ResTool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CinbaladaMain.cpp" FORMNAME="" UNITNAME="CinbaladaMain" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CInBalada\CbPercRepertoire.cpp" FORMNAME="" UNITNAME="CbPercRepertoire" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CInBalada\CbMixerAgent.cpp" FORMNAME="" UNITNAME="CbMixerAgent" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="MaximumMidi\maxmidi.cpp" FORMNAME="" UNITNAME="maxmidi.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="MaximumMidi\MaxMidiDLL.cpp" FORMNAME="" UNITNAME="MaxMidiDLL.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="MaximumMidi\MaxMidiIn.cpp" FORMNAME="" UNITNAME="MaxMidiIn.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="MaximumMidi\MaxMidiOut.cpp" FORMNAME="" UNITNAME="MaxMidiOut.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="MaximumMidi\MaxMidiScore.cpp" FORMNAME="" UNITNAME="MaxMidiScore.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="MaximumMidi\MaxMidiSMF.cpp" FORMNAME="" UNITNAME="MaxMidiSMF.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="MaximumMidi\MaxMidiSync.cpp" FORMNAME="" UNITNAME="MaxMidiSync.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="MaximumMidi\MaxMidiTrack.cpp" FORMNAME="" UNITNAME="MaxMidiTrack.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FAMA\MIDI\FmMidiEvent.cpp" FORMNAME="" UNITNAME="FmMidiEvent.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FAMA\MIDI\FmMidiFile.cpp" FORMNAME="" UNITNAME="FmMidiFile.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FAMA\MIDI\FmMidiFileTrack.cpp" FORMNAME="" UNITNAME="FmMidiFileTrack.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FAMA\MIDI\FmMidiOutput.cpp" FORMNAME="" UNITNAME="FmMidiOutput" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FAMA\FmAclMessage.cpp" FORMNAME="" UNITNAME="FmAclMessage.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FAMA\FmAgent.cpp" FORMNAME="" UNITNAME="FmAgent.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FAMA\FmAID.cpp" FORMNAME="" UNITNAME="FmAID.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FAMA\FmBehaviour.cpp" FORMNAME="" UNITNAME="FmBehaviour.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FAMA\FmMessageQueue.cpp" FORMNAME="" UNITNAME="FmMessageQueue.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FAMA\FmMessageTemplate.cpp" FORMNAME="" UNITNAME="FmMessageTemplate.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FAMA\FmServiceDescription.cpp" FORMNAME="" UNITNAME="FmServiceDescription.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FAMA\FmTContainer.cpp" FORMNAME="" UNITNAME="FmTContainer.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FAMA\FmWhitePage.cpp" FORMNAME="" UNITNAME="FmWhitePage.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FAMA\FmYellowPage.cpp" FORMNAME="" UNITNAME="FmYellowPage.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TinyXml\tinystr.cpp" FORMNAME="" UNITNAME="tinystr.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TinyXml\tinyxml.cpp" FORMNAME="" UNITNAME="tinyxml.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TinyXml\tinyxmlerror.cpp" FORMNAME="" UNITNAME="tinyxmlerror.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TinyXml\tinyxmlparser.cpp" FORMNAME="" UNITNAME="tinyxmlparser.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CInBalada\RhythmPattern\CbPercussionInstrument.cpp" FORMNAME="" UNITNAME="CbPercussionInstrument.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CInBalada\RhythmPattern\CbRhythmPattern.cpp" FORMNAME="" UNITNAME="CbRhythmPattern.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CInBalada\RhythmPattern\CbRhythmPatternInfo.cpp" FORMNAME="" UNITNAME="CbRhythmPatternInfo.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CInBalada\RhythmPattern\CbXmlRhythmPatternInfoRepository.cpp" FORMNAME="" UNITNAME="CbXmlRhythmPatternInfoRepository.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Util\MathUtil.cpp" FORMNAME="" UNITNAME="MathUtil" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CInBalada\CbFacade.cpp" FORMNAME="" UNITNAME="CbFacade" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CInBalada\RhythmPattern\CbMeter.cpp" FORMNAME="" UNITNAME="CbMeter" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Interface\TestsInterface.cpp" FORMNAME="FormTests" UNITNAME="TestsInterface" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Interface\Controls\FrameExecutionPlan.cpp" FORMNAME="FrameExecPlan" UNITNAME="FrameExecutionPlan" CONTAINERID="CCompiler" DESIGNCLASS="TFrame" LOCALCOMMAND=""/>
+      <FILE FILENAME="Interface\Main\UserMainInterface.cpp" FORMNAME="FormUserMain" UNITNAME="UserMainInterface" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Interface\Main\AboutBox.cpp" FORMNAME="FormAboutBox" UNITNAME="AboutBox" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Interface\Main\FormAddInstr.cpp" FORMNAME="FormAddInstrument" UNITNAME="FormAddInstr" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Interface\Main\FormChngeMeter.cpp" FORMNAME="FormChangeMeter" UNITNAME="FormChngeMeter" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Interface\Main\FormChngeTempo.cpp" FORMNAME="FormChangeTempo" UNITNAME="FormChngeTempo" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Interface\Main\FormNewConfig.cpp" FORMNAME="FormNewConfiguration" UNITNAME="FormNewConfig" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Interface\Main\FormSplashScreen.cpp" FORMNAME="FormSplashScreen" UNITNAME="FormSplashScreen" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Interface\Main\FormChngeBars.cpp" FORMNAME="FormChangeBars" UNITNAME="FormChngeBars" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CInBalada\RhythmPattern\CbRhythmicRole.cpp" FORMNAME="" UNITNAME="CbRhythmicRole" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CInBalada\CbPercussionistAgent.cpp" FORMNAME="" UNITNAME="CbPercussionistAgent" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CInBalada\CbPercPerfHistory.cpp" FORMNAME="" UNITNAME="CbPercPerfHistory" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CInBalada\CbPercAgentNegotiation.cpp" FORMNAME="" UNITNAME="CbPercAgentNegotiation" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CInBalada\CbPercPlan.cpp" FORMNAME="" UNITNAME="CbPercPlan" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CInBalada\CbRhythmicProject.cpp" FORMNAME="" UNITNAME="CbRhythmicProject" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CInBalada\Statistics\CbAgentChoicesStats.cpp" FORMNAME="" UNITNAME="CbAgentChoicesStats" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CInBalada\CbMutedMixerAgent.cpp" FORMNAME="" UNITNAME="CbMutedMixerAgent" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CInBalada\CbAbstractAgent.cpp" FORMNAME="" UNITNAME="CbAbstractAgent" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+  </FILELIST>
+  <BUILDTOOLS>
+  </BUILDTOOLS>
+
+  <IDEOPTIONS>
+[Version Info]
+IncludeVerInfo=0
+AutoIncBuild=0
+MajorVer=1
+MinorVer=0
+Release=0
+Build=0
+Debug=0
+PreRelease=0
+Special=0
+Private=0
+DLL=0
+Locale=1046
+CodePage=1252
+
+[Version Info Keys]
+CompanyName=
+FileDescription=
+FileVersion=1.0.0.0
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=
+ProductVersion=1.0.0.0
+Comments=
+
+[HistoryLists\hlIncludePath]
+Count=4
+Item0=CInBalada\Statistics;Interface\Controls;Interface;Util;CInBalada\RhythmPattern;TinyXml;FAMA;Interface\Main;FAMA\MIDI;CInBalada\RhythmPatternInfo;MaximumMidi;CInBalada;C:\Arquivos de programas\Borland\CBuilder6\Projects;D:\Projetos\CInBaladaXE;$(BCB)\include;$(BCB)\include\vcl
+Item1=Interface\Controls;Interface;Util;CInBalada\RhythmPattern;TinyXml;FAMA;Interface\Main;FAMA\MIDI;CInBalada\RhythmPatternInfo;MaximumMidi;CInBalada;C:\Arquivos de programas\Borland\CBuilder6\Projects;D:\Projetos\CInBaladaXE;$(BCB)\include;$(BCB)\include\vcl
+Item2=Interface;Util;CInBalada\RhythmPattern;TinyXml;FAMA;Interface\Main;FAMA\MIDI;CInBalada\RhythmPatternInfo;MaximumMidi;CInBalada;C:\Arquivos de programas\Borland\CBuilder6\Projects;D:\Projetos\CInBaladaXE;$(BCB)\include;$(BCB)\include\vcl
+Item3=TinyXml;FAMA;Interface\Main;FAMA\MIDI;CInBalada\RhythmPatternInfo;MaximumMidi;CInBalada;C:\Arquivos de programas\Borland\CBuilder6\Projects;D:\Projetos\CInBaladaXE;$(BCB)\include;$(BCB)\include\vcl
+
+[HistoryLists\hlLibraryPath]
+Count=4
+Item0=CInBalada\Statistics;Interface\Controls;Interface;Util;CInBalada\RhythmPattern;TinyXml;FAMA;Interface\Main;FAMA\MIDI;CInBalada\RhythmPatternInfo;MaximumMidi;CInBalada;C:\Arquivos de programas\Borland\CBuilder6\Projects;D:\Projetos\CInBaladaXE;$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib
+Item1=Interface\Controls;Interface;Util;CInBalada\RhythmPattern;TinyXml;FAMA;Interface\Main;FAMA\MIDI;CInBalada\RhythmPatternInfo;MaximumMidi;CInBalada;C:\Arquivos de programas\Borland\CBuilder6\Projects;D:\Projetos\CInBaladaXE;$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib
+Item2=Interface;Util;CInBalada\RhythmPattern;TinyXml;FAMA;Interface\Main;FAMA\MIDI;CInBalada\RhythmPatternInfo;MaximumMidi;CInBalada;C:\Arquivos de programas\Borland\CBuilder6\Projects;D:\Projetos\CInBaladaXE;$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib
+Item3=TinyXml;FAMA;Interface\Main;FAMA\MIDI;CInBalada\RhythmPatternInfo;MaximumMidi;CInBalada;C:\Arquivos de programas\Borland\CBuilder6\Projects;D:\Projetos\CInBaladaXE;$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib
+
+[HistoryLists\hlDebugSourcePath]
+Count=1
+Item0=$(BCB)\source\vcl
+
+[HistoryLists\hlConditionals]
+Count=5
+Item0=_DEBUG;_RWSTD_BOUNDS_CHECKING
+Item1=_DEBUG;_STLP_RANGE_ERRORS_H;_STLP_EXTERN_RANGE_ERRORS
+Item2=_DEBUG;_STLP_RANGE_ERRORS_H
+Item3=_DEBUG, _STLP_RANGE_ERRORS_H
+Item4=_DEBUG
+
+[HistoryLists\hlIntOutputDir]
+Count=1
+Item0=objs
+
+[Debugging]
+DebugSourceDirs=$(BCB)\source\vcl
+
+[Parameters]
+RunParams=
+Launcher=
+UseLauncher=0
+DebugCWD=
+HostApplication=
+RemoteHost=
+RemotePath=
+RemoteLauncher=
+RemoteCWD=
+RemoteDebug=0
+
+[Compiler]
+ShowInfoMsgs=0
+LinkDebugVcl=0
+LinkCGLIB=0
+
+[CORBA]
+AddServerUnit=1
+AddClientUnit=1
+PrecompiledHeaders=1
+
+[Language]
+ActiveLang=
+ProjectLang=
+RootDir=
+  </IDEOPTIONS>
+</PROJECT>

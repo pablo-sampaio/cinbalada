@@ -1,0 +1,4 @@
+<RhythmicProject name="unnamed" tempo="103" meter-index="0" num-bars="4" auto-repeat="false">
+    <PercussionistAgent name="claves" instrument="claves" default-role="base" />
+    <PercussionistAgent name="congas" instrument="congas" default-role="base-complementar" />
+</RhythmicProject>

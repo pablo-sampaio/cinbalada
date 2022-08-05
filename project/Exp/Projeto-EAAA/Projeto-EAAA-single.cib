@@ -1,0 +1,7 @@
+<RhythmicProject name="unnamed" tempo="95" meter-index="0" num-bars="4" auto-repeat="false">
+    <PercussionistAgent name="agogo" instrument="agogo" default-role="uniforme" />
+    <PercussionistAgent name="bumbo" instrument="bumbo" default-role="uniforme" />
+    <PercussionistAgent name="cowbell" instrument="cowbell" default-role="uniforme" />
+    <PercussionistAgent name="apito" instrument="apito" default-role="uniforme" />
+    <PercussionistAgent name="maracas" instrument="maracas" default-role="uniforme" />
+</RhythmicProject>

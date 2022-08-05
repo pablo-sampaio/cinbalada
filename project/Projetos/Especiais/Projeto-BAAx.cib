@@ -1,0 +1,16 @@
+<RhythmicProject name="unnamed" tempo="103" meter-index="0" num-bars="8" auto-repeat="false">
+    <PercussionistAgent name="bongo" instrument="bongo" default-role="base-complementar">
+        <Bar index="7" role="virada" />
+    </PercussionistAgent>
+    <PercussionistAgent name="agogo" instrument="agogo" default-role="base-complementar">
+        <Bar index="1" role="mudo" />
+        <Bar index="3" role="mudo" />
+        <Bar index="7" role="mudo" />
+    </PercussionistAgent>
+    <PercussionistAgent name="bumbo" instrument="bumbo" default-role="base">
+        <Bar index="7" role="mudo" />
+    </PercussionistAgent>
+    <PercussionistAgent name="ganza" instrument="ganza" default-role="base-complementar">
+        <Bar index="7" role="mudo" />
+    </PercussionistAgent>
+</RhythmicProject>

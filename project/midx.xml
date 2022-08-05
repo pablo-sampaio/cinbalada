@@ -1,0 +1,1512 @@
+<RhythmPattern name="bs-agogo-01" type="basic" instrument="agogo" filepath="bs-agogo-01.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-agogo-02" type="basic" instrument="agogo" filepath="bs-agogo-02.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-agogo-03" type="basic" instrument="agogo" filepath="bs-agogo-03.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-agogo-04" type="basic" instrument="agogo" filepath="bs-agogo-04.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-apito-01" type="basic" instrument="apito" filepath="bs-apito-01.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-apito-02" type="basic" instrument="apito" filepath="bs-apito-02.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-apito-03a" type="basic" instrument="apito" filepath="bs-apito-03a.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-apito-03b" type="basic" instrument="apito" filepath="bs-apito-03b.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-apito-04a" type="basic" instrument="apito" filepath="bs-apito-04a.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-apito-04b" type="basic" instrument="apito" filepath="bs-apito-04b.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-pandeiro-01" type="basic" instrument="pandeiro" filepath="bs-bongo+chinesecymbal-01.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-pandeiro-02" type="basic" instrument="pandeiro" filepath="bs-bongo+chinesecymbal-02.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-pandeiro-03" type="basic" instrument="pandeiro" filepath="bs-bongo+chinesecymbal-03.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-pandeiro-04" type="basic" instrument="pandeiro" filepath="bs-bongo+chinesecymbal-04.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-ganza-01" type="basic" instrument="ganza" filepath="bs-cabasa-01.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-ganza-02a" type="basic" instrument="ganza" filepath="bs-cabasa-02a.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-ganza-02b" type="basic" instrument="ganza" filepath="bs-cabasa-02b.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-ganza-03" type="basic" instrument="ganza" filepath="bs-cabasa-03.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-conga-01" type="basic" instrument="congas" filepath="bs-conga-01.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-conga-02" type="basic" instrument="congas" filepath="bs-conga-02.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-conga-03b" type="basic" instrument="congas" filepath="bs-conga-03b.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-conga-04" type="basic" instrument="congas" filepath="bs-conga-04.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-cuica-01" type="basic" instrument="cuica" filepath="bs-cuica-01.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-cuica-02" type="basic" instrument="cuica" filepath="bs-cuica-02.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-cuica-03" type="basic" instrument="cuica" filepath="bs-cuica-03.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-cuica-04" type="basic" instrument="cuica" filepath="bs-cuica-04.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-surdo-01" type="basic" instrument="surdo" filepath="bs-floortom-01.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-surdo-02a" type="basic" instrument="surdo" filepath="bs-floortom-02a.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-surdo-02b" type="basic" instrument="surdo" filepath="bs-floortom-02b.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-surdo-03a" type="basic" instrument="surdo" filepath="bs-floortom-03a.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-surdo-04*" type="basic" instrument="surdo" filepath="bs-floortom-04.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-surdo-03c" type="basic" instrument="surdo" filepath="bs-floortom-03c.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-caixa-01" type="basic" instrument="caixa" filepath="bs-snaredrum-01.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-caixa-02" type="basic" instrument="caixa" filepath="bs-snaredrum-02.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-caixa-03" type="basic" instrument="caixa" filepath="bs-snaredrum-03.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-caixa-04" type="basic" instrument="caixa" filepath="bs-snaredrum-04.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-tamborim-01" type="basic" instrument="tamborim" filepath="bs-tamborim-01.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-tamborim-02" type="basic" instrument="tamborim" filepath="bs-tamborim-02.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-tamborim-03" type="basic" instrument="tamborim" filepath="bs-tamborim-03.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="bs-tamborim-04" type="basic" instrument="tamborim" filepath="bs-tamborim-04.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-agogo 01" type="basic" instrument="agogo" filepath="ck-agogo 01.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-agogo 02" type="basic" instrument="agogo" filepath="ck-agogo 02.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-agogo 03" type="basic" instrument="agogo" filepath="ck-agogo 03.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-agogo 04" type="basic" instrument="agogo" filepath="ck-agogo 04.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-agogo 05" type="basic" instrument="agogo" filepath="ck-agogo 05.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-bata hi 01" type="basic" instrument="congas" filepath="ck-bata hi 01.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-bata hi 02" type="basic" instrument="congas" filepath="ck-bata hi 02.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-bata hi 03" type="basic" instrument="congas" filepath="ck-bata hi 03.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-bata low 01" type="basic" instrument="congas" filepath="ck-bata low 01.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-bata low 02" type="basic" instrument="congas" filepath="ck-bata low 02.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-bata low 03" type="basic" instrument="congas" filepath="ck-bata low 03.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-bata low 04" type="basic" instrument="congas" filepath="ck-bata low 04.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-bata low 05" type="basic" instrument="congas" filepath="ck-bata low 05.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-bata mid 01" type="basic" instrument="congas" filepath="ck-bata mid 01.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-bata mid 02" type="basic" instrument="congas" filepath="ck-bata mid 02.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-bata mid 03" type="basic" instrument="congas" filepath="ck-bata mid 03.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-bata mid 04" type="basic" instrument="congas" filepath="ck-bata mid 04.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-bata mid 05" type="basic" instrument="congas" filepath="ck-bata mid 05.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-bata mid 06" type="basic" instrument="congas" filepath="ck-bata mid 06.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-batas combo 01" type="basic" instrument="congas" filepath="ck-batas combo 01.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-batas combo 02" type="basic" instrument="congas" filepath="ck-batas combo 02.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-batas combo 03" type="basic" instrument="congas" filepath="ck-batas combo 03.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-batas combo 04" type="basic" instrument="congas" filepath="ck-batas combo 04.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-batas combo 05" type="basic" instrument="congas" filepath="ck-batas combo 05.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-batas combo 06" type="basic" instrument="congas" filepath="ck-batas combo 06.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 01" type="basic" instrument="congas" filepath="ck-Congas 01.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 02" type="basic" instrument="congas" filepath="ck-Congas 02.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 03" type="basic" instrument="congas" filepath="ck-Congas 03.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 04" type="basic" instrument="congas" filepath="ck-Congas 04.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 05" type="basic" instrument="congas" filepath="ck-Congas 05.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 06" type="basic" instrument="congas" filepath="ck-Congas 06.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="african" />
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 07" type="basic" instrument="congas" filepath="ck-Congas 07.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="african" />
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 08" type="basic" instrument="congas" filepath="ck-Congas 08.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 09" type="basic" instrument="congas" filepath="ck-Congas 09.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 10" type="basic" instrument="congas" filepath="ck-Congas 10.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 11" type="basic" instrument="congas" filepath="ck-Congas 11.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="african" />
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 12" type="basic" instrument="congas" filepath="ck-Congas 12.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 13" type="basic" instrument="congas" filepath="ck-Congas 13.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 14" type="basic" instrument="congas" filepath="ck-Congas 14.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="african" />
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 15" type="basic" instrument="congas" filepath="ck-Congas 15.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="african" />
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 16" type="basic" instrument="congas" filepath="ck-Congas 16.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="african" />
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 17" type="basic" instrument="congas" filepath="ck-Congas 17.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 18" type="basic" instrument="congas" filepath="ck-Congas 18.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 19" type="basic" instrument="congas" filepath="ck-Congas 19.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 20" type="basic" instrument="congas" filepath="ck-Congas 20.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 21" type="basic" instrument="congas" filepath="ck-Congas 21.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 22" type="basic" instrument="congas" filepath="ck-Congas 22.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 23" type="basic" instrument="congas" filepath="ck-Congas 23.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 24" type="basic" instrument="congas" filepath="ck-Congas 24.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 25" type="basic" instrument="congas" filepath="ck-Congas 25.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 26" type="basic" instrument="congas" filepath="ck-Congas 26.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 27" type="basic" instrument="congas" filepath="ck-Congas 27.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 28" type="basic" instrument="congas" filepath="ck-Congas 28.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 29" type="fill" instrument="congas" filepath="ck-Congas 29.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 30" type="basic" instrument="congas" filepath="ck-Congas 30.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="african" />
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 31" type="basic" instrument="congas" filepath="ck-Congas 31.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas 32" type="basic" instrument="congas" filepath="ck-Congas 32.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas Calypso 01" type="basic" instrument="congas" filepath="ck-Congas Calypso 01.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas Calypso 02" type="basic" instrument="congas" filepath="ck-Congas Calypso 02.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas Fill 01" type="fill" instrument="congas" filepath="ck-Congas Fill 01.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas Fill 02" type="fill" instrument="congas" filepath="ck-Congas Fill 02.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas Fill 03" type="fill" instrument="congas" filepath="ck-Congas Fill 03.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas Fill 04" type="fill" instrument="congas" filepath="ck-Congas Fill 04.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas Fill 05" type="fill" instrument="congas" filepath="ck-Congas Fill 05.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas Fill 06" type="fill" instrument="congas" filepath="ck-Congas Fill 06.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas Fill 07" type="fill" instrument="congas" filepath="ck-Congas Fill 07.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas Fill 08" type="fill" instrument="congas" filepath="ck-Congas Fill 08.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas Fill 09" type="fill" instrument="congas" filepath="ck-Congas Fill 09.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas Fill 10" type="fill" instrument="congas" filepath="ck-Congas Fill 10.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas Fill 11" type="fill" instrument="congas" filepath="ck-Congas Fill 11.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas Roll 01" type="roll" instrument="congas" filepath="ck-Congas Roll 01.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas Roll 02" type="roll" instrument="congas" filepath="ck-Congas Roll 02.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Congas Roll 03" type="roll" instrument="congas" filepath="ck-Congas Roll 03.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos 01" type="basic" instrument="bongo" filepath="ck-Bongos 01.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos 02" type="basic" instrument="bongo" filepath="ck-Bongos 02.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos 03" type="basic" instrument="bongo" filepath="ck-Bongos 03.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos 04" type="basic" instrument="bongo" filepath="ck-Bongos 04.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos 05" type="basic" instrument="bongo" filepath="ck-Bongos 05.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos 06" type="basic" instrument="bongo" filepath="ck-Bongos 06.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos 07" type="basic" instrument="bongo" filepath="ck-Bongos 07.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos 08" type="basic" instrument="bongo" filepath="ck-Bongos 08.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos 09" type="basic" instrument="bongo" filepath="ck-Bongos 09.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos 10" type="basic" instrument="bongo" filepath="ck-Bongos 10.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos 11" type="fill" instrument="bongo" filepath="ck-Bongos 11.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos 12" type="basic" instrument="bongo" filepath="ck-Bongos 12.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos 13" type="basic" instrument="bongo" filepath="ck-Bongos 13.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos 14" type="basic" instrument="bongo" filepath="ck-Bongos 14.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos 15" type="basic" instrument="bongo" filepath="ck-Bongos 15.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos 16" type="basic" instrument="bongo" filepath="ck-Bongos 16.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos 17" type="fill" instrument="bongo" filepath="ck-Bongos 17.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos Fill 01" type="fill" instrument="bongo" filepath="ck-Bongos Fill 01.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos Fill 02" type="fill" instrument="bongo" filepath="ck-Bongos Fill 02.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos Fill 03" type="fill" instrument="bongo" filepath="ck-Bongos Fill 03.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos Fill 04" type="fill" instrument="bongo" filepath="ck-Bongos Fill 04.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos Fill 05" type="fill" instrument="bongo" filepath="ck-Bongos Fill 05.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos Fill 06" type="fill" instrument="bongo" filepath="ck-Bongos Fill 06.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos Fill 07" type="fill" instrument="bongo" filepath="ck-Bongos Fill 07.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos Fill 08" type="fill" instrument="bongo" filepath="ck-Bongos Fill 08.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos Fill 09" type="fill" instrument="bongo" filepath="ck-Bongos Fill 09.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos Fill 10" type="fill" instrument="bongo" filepath="ck-Bongos Fill 10.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos Fill 11" type="fill" instrument="bongo" filepath="ck-Bongos Fill 11.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos Fill 12" type="fill" instrument="bongo" filepath="ck-Bongos Fill 12.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos Fill 13" type="fill" instrument="bongo" filepath="ck-Bongos Fill 13.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos Fill 14" type="fill" instrument="bongo" filepath="ck-Bongos Fill 14.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos Fill 15" type="fill" instrument="bongo" filepath="ck-Bongos Fill 15.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos Roll 01" type="roll" instrument="bongo" filepath="ck-Bongos Roll 01.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos Roll 02" type="roll" instrument="bongo" filepath="ck-Bongos Roll 02.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos Triplets 01" type="fill" instrument="bongo" filepath="ck-Bongos Triplets 01.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos Triplets 02" type="roll" instrument="bongo" filepath="ck-Bongos Triplets 02.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Bongos Triplets 03" type="roll" instrument="bongo" filepath="ck-Bongos Triplets 03.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Cabasa 01" type="basic" instrument="ganza" filepath="ck-Cabasa 01.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="generic" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Cabasa 02" type="basic" instrument="ganza" filepath="ck-Cabasa 02.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="generic" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Cabasa 03" type="basic" instrument="ganza" filepath="ck-Cabasa 03.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="generic" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Cabasa 04" type="basic" instrument="ganza" filepath="ck-Cabasa 04.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="generic" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Cabasa 05" type="basic" instrument="ganza" filepath="ck-Cabasa 05.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="generic" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Cabasa 06" type="basic" instrument="ganza" filepath="ck-Cabasa 06.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="generic" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Cabasa 07" type="basic" instrument="ganza" filepath="ck-Cabasa 07.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="generic" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Cabasa 08" type="basic" instrument="ganza" filepath="ck-Cabasa 08.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="generic" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Cabasa 09" type="basic" instrument="ganza" filepath="ck-Cabasa 09.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="generic" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Cabasa 10" type="basic" instrument="ganza" filepath="ck-Cabasa 10.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="generic" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Cabasa 11" type="basic" instrument="ganza" filepath="ck-Cabasa 11.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="generic" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Canjira 01" type="basic" instrument="pandeiro" filepath="ck-Canjira 01.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Canjira 02" type="basic" instrument="pandeiro" filepath="ck-Canjira 02.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Canjira 03" type="basic" instrument="pandeiro" filepath="ck-Canjira 03.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Canjira 04" type="basic" instrument="pandeiro" filepath="ck-Canjira 04.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Canjira 06" type="basic" instrument="pandeiro" filepath="ck-Canjira 06.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Canjira 07" type="basic" instrument="pandeiro" filepath="ck-Canjira 07.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Canjira 08" type="basic" instrument="pandeiro" filepath="ck-Canjira 08.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Canjira Fill 01" type="fill" instrument="pandeiro" filepath="ck-Canjira Fill 01.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Canjira Fill 02" type="roll" instrument="pandeiro" filepath="ck-Canjira Fill 02.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Claves 01" type="basic" instrument="claves" filepath="ck-Claves 01.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Claves 02" type="basic" instrument="claves" filepath="ck-Claves 02.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Claves 03" type="basic" instrument="claves" filepath="ck-Claves 03.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Claves 04" type="basic" instrument="claves" filepath="ck-Claves 04.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Claves 05" type="basic" instrument="claves" filepath="ck-Claves 05.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Claves 06" type="basic" instrument="claves" filepath="ck-Claves 06.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Cow Tim 02b" type="basic" instrument="cowbell" filepath="ck-Cow Tim 02b.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Cow Tim 03b" type="basic" instrument="cowbell" filepath="ck-Cow Tim 03b.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Cow Tim 06b" type="basic" instrument="cowbell" filepath="ck-Cow Tim 06b.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Cowbell Hi 01" type="basic" instrument="cowbell" filepath="ck-Cowbell Hi 01.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Cowbell Hi 02" type="basic" instrument="cowbell" filepath="ck-Cowbell Hi 02.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Cowbell Hi 03" type="basic" instrument="cowbell" filepath="ck-Cowbell Hi 03.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Cowbell Hi 04" type="basic" instrument="cowbell" filepath="ck-Cowbell Hi 04.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Cowbell Hi 05" type="basic" instrument="cowbell" filepath="ck-Cowbell Hi 05.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Cowbell Low 01" type="basic" instrument="cowbell" filepath="ck-Cowbell Low 01.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Cowbell Low 02" type="basic" instrument="cowbell" filepath="ck-Cowbell Low 02.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Cowbell Low 03" type="basic" instrument="cowbell" filepath="ck-Cowbell Low 03.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Cowbell Low 04" type="basic" instrument="cowbell" filepath="ck-Cowbell Low 04.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Cowbell Low 05" type="basic" instrument="cowbell" filepath="ck-Cowbell Low 05.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Cowbell Low Roll 01" type="roll" instrument="cowbell" filepath="ck-Cowbell Low Roll 01.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Cowbell Low Roll 02" type="roll" instrument="cowbell" filepath="ck-Cowbell Low Roll 02.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Egg Shaker 01" type="basic" instrument="maracas" filepath="ck-Egg Shaker 01.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Egg Shaker 02" type="basic" instrument="maracas" filepath="ck-Egg Shaker 02.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+        <MusicalStyle name="african" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Egg Shaker 02a" type="basic" instrument="maracas" filepath="ck-Egg Shaker 02a.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Egg Shaker 02b" type="basic" instrument="maracas" filepath="ck-Egg Shaker 02b.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Finger Bongos 02" type="basic" instrument="bongo" filepath="ck-Finger Bongos 02.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Finger Bongos 03" type="basic" instrument="bongo" filepath="ck-Finger Bongos 03.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Finger Bongos 04" type="basic" instrument="bongo" filepath="ck-Finger Bongos 04.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Finger Bongos 05" type="basic" instrument="bongo" filepath="ck-Finger Bongos 05.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Finger Bongos 06" type="basic" instrument="bongo" filepath="ck-Finger Bongos 06.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Finger Bongos Ending" type="fill" instrument="bongo" filepath="ck-Finger Bongos Ending.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Finger Bongos Fill 01" type="fill" instrument="bongo" filepath="ck-Finger Bongos Fill 01.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Finger Bongos Fill 02" type="fill" instrument="bongo" filepath="ck-Finger Bongos Fill 02.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Finger Bongos Fill 03" type="fill" instrument="bongo" filepath="ck-Finger Bongos Fill 03.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Finger Bongos Roll" type="roll" instrument="bongo" filepath="ck-Finger Bongos Roll.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Guiro 01" type="basic" instrument="guiro" filepath="ck-Guiro 01.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Guiro 02" type="basic" instrument="guiro" filepath="ck-Guiro 02.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Guiro 03" type="basic" instrument="guiro" filepath="ck-Guiro 03.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ck-Guiro 04" type="basic" instrument="guiro" filepath="ck-Guiro 04.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ts-bossa" type="basic" instrument="claves" filepath="ts-bossa.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="samba" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ts-bossa-cowbell" type="basic" instrument="cowbell" filepath="ts-bossa-cowbell.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ts-gahu" type="basic" instrument="claves" filepath="ts-gahu.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ts-gahu-cabasa" type="basic" instrument="ganza" filepath="ts-gahu-cabasa.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ts-gahu-cowbell" type="basic" instrument="cowbell" filepath="ts-gahu-cowbell.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ts-rumba" type="basic" instrument="claves" filepath="ts-rumba.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ts-rumba-cabasa" type="basic" instrument="ganza" filepath="ts-rumba-cabasa.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ts-rumba-cowbell" type="basic" instrument="cowbell" filepath="ts-rumba-cowbell.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ts-shiko" type="basic" instrument="claves" filepath="ts-shiko.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ts-shiko-cowbell" type="basic" instrument="cowbell" filepath="ts-shiko-cowbell.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ts-son" type="basic" instrument="claves" filepath="ts-son.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ts-son-cabasa" type="basic" instrument="ganza" filepath="ts-son-cabasa.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ts-son-cowbell" type="basic" instrument="cowbell" filepath="ts-son-cowbell.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ts-soukous" type="basic" instrument="claves" filepath="ts-soukous.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="latin" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ts-soukous-cabasa" type="basic" instrument="ganza" filepath="ts-soukous-cabasa.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ts-soukous-cowbell" type="basic" instrument="cowbell" filepath="ts-soukous-cowbell.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ts-classical-q1" type="basic" instrument="claves" filepath="ts-classical-q1-claves.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="generic" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ts-classical-q2" type="basic" instrument="claves" filepath="ts-classical-q2-claves.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="generic" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ts-classical-q1" type="basic" instrument="cowbell" filepath="ts-classical-q1.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="generic" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="ts-classical-q2" type="basic" instrument="cowbell" filepath="ts-classical-q2.mid" track="1">
+    <MusicalStyles>
+        <MusicalStyle name="generic" />
+    </MusicalStyles>
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-aconcon-bassdrum" type="basic" instrument="bumbo" filepath="st-aconcon-bassdrum.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-aconcon-congas" type="basic" instrument="congas" filepath="st-aconcon-congas.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-aconcon-cowbell" type="basic" instrument="cowbell" filepath="st-aconcon-cowbell.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-aconcon-floortom" type="basic" instrument="surdo" filepath="st-aconcon-floortom.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-acpala-cabasa" type="basic" instrument="ganza" filepath="st-acpala-cabasa.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-acpala-cowbell" type="basic" instrument="cowbell" filepath="st-acpala-cowbell.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-acpala-zabumba1" type="basic" instrument="zabumba" filepath="st-acpala-zabumba1.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-acpala-zabumba2" type="basic" instrument="zabumba" filepath="st-acpala-zabumba2.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-acpala-zabumba3" type="basic" instrument="zabumba" filepath="st-acpala-zabumba3.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-acpala-floortom1" type="basic" instrument="surdo" filepath="st-acpala-floortom1.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-acpala-floortom2" type="basic" instrument="surdo" filepath="st-acpala-floortom2.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-comparsa-agogo" type="basic" instrument="agogo" filepath="st-comparsa-agogo.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-comparsa-bassdrum" type="basic" instrument="bumbo" filepath="st-comparsa-bassdrum.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-comparsa-conga" type="basic" instrument="congas" filepath="st-comparsa-conga.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-comparsa-floortom" type="basic" instrument="surdo" filepath="st-comparsa-floortom.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-comparsa-zabumba" type="basic" instrument="zabumba" filepath="st-comparsa-zabumba.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-fanga-agogo" type="basic" instrument="agogo" filepath="st-fanga-agogo.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-fanga-bassdrum" type="basic" instrument="bumbo" filepath="st-fanga-bassdrum.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-fanga-bongo" type="basic" instrument="bongo" filepath="st-fanga-bongo.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-fanga-conga" type="basic" instrument="congas" filepath="st-fanga-conga.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-iccthedral-congas" type="basic" instrument="congas" filepath="st-iccthedral-congas.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-kakilambe-bassdrum" type="basic" instrument="bumbo" filepath="st-kakilambe-bassdrum.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-kakilambe-cowbell" type="basic" instrument="cowbell" filepath="st-kakilambe-cowbell.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-kakilambe-floortom1" type="basic" instrument="surdo" filepath="st-kakilambe-floortom1.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-kakilambe-floortom2" type="basic" instrument="surdo" filepath="st-kakilambe-floortom2.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-kpanlogo-agogo" type="basic" instrument="agogo" filepath="st-kpanlogo-agogo.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-kpanlogo-bassdrum" type="basic" instrument="bumbo" filepath="st-kpanlogo-bassdrum.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-kpanlogo-bongo1" type="basic" instrument="bongo" filepath="st-kpanlogo-bongo1.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-kpanlogo-bongo2" type="basic" instrument="bongo" filepath="st-kpanlogo-bongo2.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-kpanlogo-cowbell" type="basic" instrument="cowbell" filepath="st-kpanlogo-cowbell.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-nokobe-cabasa" type="basic" instrument="ganza" filepath="st-nokobe-cabasa.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-nokobe-claves" type="basic" instrument="claves" filepath="st-nokobe-claves.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-songtrellis-longbell" type="basic" instrument="cowbell" filepath="st-songtrellis-longbell.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<RhythmPattern name="st-songtrellis-shortbell" type="basic" instrument="cowbell" filepath="st-songtrellis-shortbell.mid" track="1">
+    <MusicalStyles />
+    <Meter beats="4" def_beat_tatums="4" />
+</RhythmPattern>
+<PercussionInstrument name="agogo" fclass="high-band">
+    <Notes>
+        <Note midinote="67" relpitch="high" />
+        <Note midinote="68" relpitch="low" />
+    </Notes>
+</PercussionInstrument>
+<PercussionInstrument name="apito" fclass="high-band">
+    <Notes>
+        <Note midinote="71" relpitch="high" />
+        <Note midinote="72" relpitch="low" />
+    </Notes>
+</PercussionInstrument>
+<PercussionInstrument name="bongo" fclass="med-band">
+    <Notes>
+        <Note midinote="60" relpitch="high" />
+        <Note midinote="61" relpitch="low" />
+    </Notes>
+</PercussionInstrument>
+<PercussionInstrument name="bumbo" fclass="low-band">
+    <Notes>
+        <Note midinote="35" relpitch="high" />
+        <Note midinote="36" relpitch="low" />
+    </Notes>
+</PercussionInstrument>
+<PercussionInstrument name="caixa" fclass="med-band">
+    <Notes>
+        <Note midinote="38" relpitch="high" />
+        <Note midinote="40" relpitch="high" />
+    </Notes>
+</PercussionInstrument>
+<PercussionInstrument name="claves" fclass="high-band">
+    <Notes>
+        <Note midinote="75" relpitch="high" />
+    </Notes>
+</PercussionInstrument>
+<PercussionInstrument name="congas" fclass="med-band">
+    <Notes>
+        <Note midinote="64" relpitch="low" />
+        <Note midinote="62" relpitch="high" />
+        <Note midinote="63" relpitch="high" />
+    </Notes>
+</PercussionInstrument>
+<PercussionInstrument name="cowbell" fclass="high-band">
+    <Notes>
+        <Note midinote="56" relpitch="high" />
+    </Notes>
+</PercussionInstrument>
+<PercussionInstrument name="cuica" fclass="high-band">
+    <Notes>
+        <Note midinote="78" relpitch="high" />
+        <Note midinote="79" relpitch="low" />
+    </Notes>
+</PercussionInstrument>
+<PercussionInstrument name="ganza" fclass="med-band">
+    <Notes>
+        <Note midinote="69" relpitch="high" />
+    </Notes>
+</PercussionInstrument>
+<PercussionInstrument name="guiro" fclass="high-band">
+    <Notes>
+        <Note midinote="73" relpitch="high" />
+        <Note midinote="74" relpitch="low" />
+    </Notes>
+</PercussionInstrument>
+<PercussionInstrument name="maracas" fclass="high-band">
+    <Notes>
+        <Note midinote="70" relpitch="high" />
+    </Notes>
+</PercussionInstrument>
+<PercussionInstrument name="pandeiro" fclass="med-band">
+    <Notes>
+        <Note midinote="54" relpitch="high" />
+        <Note midinote="64" relpitch="high" />
+    </Notes>
+</PercussionInstrument>
+<PercussionInstrument name="surdo" fclass="low-band">
+    <Notes>
+        <Note midinote="43" relpitch="high" />
+        <Note midinote="41" relpitch="low" />
+    </Notes>
+</PercussionInstrument>
+<PercussionInstrument name="tamborim" fclass="high-band">
+    <Notes>
+        <Note midinote="60" relpitch="high" />
+    </Notes>
+</PercussionInstrument>
+<PercussionInstrument name="zabumba" fclass="low-band">
+    <Notes>
+        <Note midinote="35" relpitch="low" />
+        <Note midinote="37" relpitch="high" />
+    </Notes>
+</PercussionInstrument>

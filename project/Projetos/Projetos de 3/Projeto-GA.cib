@@ -1,0 +1,5 @@
+<RhythmicProject name="" tempo="108" meter-index="0" num-bars="8" auto-repeat="false">
+    <PercussionistAgent name="claves" instrument="claves" default-role="base" />
+    <PercussionistAgent name="ganza" instrument="ganza" default-role="base" />
+    <PercussionistAgent name="cowbell" instrument="cowbell" default-role="base-complementar" />
+</RhythmicProject>

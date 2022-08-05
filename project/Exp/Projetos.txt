@@ -1,0 +1,13 @@
+experimentos de 2
+ A 	(maracas / cowbell)
+ H 	(surdo / bongo)
+
+experimentos de 3
+ GB	(claves, ganza / bongo)
+
+experimentos de 4
+ EAB	(bumbo, cowbell / agogo, congas)  <----- diversidade
+ BAAx *	(bumbo / bongo, agogo, ganza)
+
+experimentos de 5
+ EAAA 	(bumbo, cowbell / agogo, apito, maracas) 

@@ -1,0 +1,6 @@
+<RhythmicProject name="unnamed" tempo="103" meter-index="0" num-bars="4" auto-repeat="false">
+    <PercussionistAgent name="agogo" instrument="agogo" default-role="livre" />
+    <PercussionistAgent name="bumbo" instrument="bumbo" default-role="livre" />
+    <PercussionistAgent name="cowbell" instrument="cowbell" default-role="livre" />
+    <PercussionistAgent name="congas" instrument="congas" default-role="livre" />
+</RhythmicProject>

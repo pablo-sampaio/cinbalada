@@ -1,0 +1,4 @@
+<RhythmicProject name="unnamed" tempo="103" meter-index="0" num-bars="4" auto-repeat="false">
+    <PercussionistAgent name="maracas" instrument="maracas" default-role="base-complementar" />
+    <PercussionistAgent name="cowbell" instrument="cowbell" default-role="base" />
+</RhythmicProject>

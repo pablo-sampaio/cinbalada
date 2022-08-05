@@ -1,0 +1,4 @@
+<RhythmicProject name="legal" tempo="115" meter-index="0" num-bars="4" auto-repeat="false">
+    <PercussionistAgent name="surdo" instrument="surdo" default-role="base" />
+    <PercussionistAgent name="agogo" instrument="agogo" default-role="base-complementar" />
+</RhythmicProject>

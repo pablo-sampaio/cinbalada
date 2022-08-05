@@ -1,0 +1,15 @@
+<RhythmicProject name="unnamed" tempo="95" meter-index="0" num-bars="8" auto-repeat="false">
+    <PercussionistAgent name="agogo" instrument="agogo" default-role="base-complementar">
+        <Bar index="0" role="mudo" />
+        <Bar index="1" role="mudo" />
+        <Bar index="2" role="mudo" />
+        <Bar index="5" role="mudo" />
+    </PercussionistAgent>
+    <PercussionistAgent name="bumbo" instrument="bumbo" default-role="base" />
+    <PercussionistAgent name="cowbell" instrument="cowbell" default-role="base">
+        <Bar index="2" role="base-complementar" />
+        <Bar index="5" role="base-complementar" />
+    </PercussionistAgent>
+    <PercussionistAgent name="apito" instrument="apito" default-role="base-complementar" />
+    <PercussionistAgent name="maracas" instrument="maracas" default-role="base-complementar" />
+</RhythmicProject>

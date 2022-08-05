@@ -1,0 +1,11 @@
+1
+1 prb A C
+2 rbe B A
+3 bep C B
+4 epr A C
+5 prb B A
+6 rbe C B
+2
+1 8
+2 7
+1

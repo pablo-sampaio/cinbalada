@@ -1,0 +1,18 @@
+Configurando e Instalando
+------------------------- 
+
+1) Instalar "dclusr.bpi"
+   a. Abra o projeto "dclusr.bpk" no seu diretório "CBuilder6\lib"
+   b. Uma caixa de diálogo abrirá permitindo que você compile o projeto
+   c. Compile e instale o componente
+   e. O arquivo "dclusr.bpi" será gerado em "CBuilder6\Projects\lib"
+
+2) Fechar o projeto e abrir o grupo de projetos "ProjectGroup.bpg" (no diretório
+   do CInBalada)
+
+3) Compilar e instalar os componentes do projeto "CinbaladaComponents.bpk"
+
+4) Para melhor visualização/edição do código, alterar as preferências:
+   a. Vá na opção do menu "Tools->Editor Options"
+   b. Mudar "Block Indent" e "Tab stops" para o valor 4
+   c. Marcar "Use tab character", "Optimal fill" e "Undo after save"

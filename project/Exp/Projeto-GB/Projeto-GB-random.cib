@@ -1,0 +1,5 @@
+<RhythmicProject name="" tempo="103" meter-index="0" num-bars="4" auto-repeat="false">
+    <PercussionistAgent name="claves" instrument="claves" default-role="livre" />
+    <PercussionistAgent name="ganza" instrument="ganza" default-role="livre" />
+    <PercussionistAgent name="bongo" instrument="bongo" default-role="livre" />
+</RhythmicProject>

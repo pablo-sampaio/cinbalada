@@ -1,0 +1,6 @@
+<RhythmicProject name="unnamed" tempo="115" meter-index="0" num-bars="8" auto-repeat="false">
+    <PercussionistAgent name="bongo" instrument="bongo" default-role="uniforme" />
+    <PercussionistAgent name="agogo" instrument="agogo" default-role="uniforme" />
+    <PercussionistAgent name="bumbo" instrument="bumbo" default-role="uniforme" />
+    <PercussionistAgent name="ganza" instrument="ganza" default-role="uniforme" />
+</RhythmicProject>

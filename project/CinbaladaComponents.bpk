@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!-- C++Builder XML Project -->
+<PROJECT>
+  <MACROS>
+    <VERSION value="BCB.06.00"/>
+    <PROJECT value="CinbaladaComponents.bpl"/>
+    <OBJFILES value="objs\CinbaladaComponents.obj objs\RhythmPatternControl.obj 
+      objs\FmMidiFile.obj objs\FmMidiEvent.obj objs\FmMidiFileTrack.obj 
+      objs\MaxMidiScore.obj objs\MaxMidiSMF.obj objs\MaxMidiTrack.obj 
+      objs\MaxMidiIn.obj objs\maxmidi.obj objs\CbRhythmPattern.obj 
+      objs\CbRhythmPatternInfo.obj objs\MathUtil.obj 
+      objs\CbRhythmPatternSequencer.obj objs\FmMidiOutput.obj objs\CbMeter.obj"/>
+    <RESFILES value="CinbaladaComponents.res"/>
+    <IDLFILES value=""/>
+    <IDLGENFILES value=""/>
+    <DEFFILE value=""/>
+    <RESDEPEN value="$(RESFILES)"/>
+    <LIBFILES value=""/>
+    <LIBRARIES value=""/>
+    <SPARELIBS value="rtl.lib vcl.lib"/>
+    <PACKAGES value="rtl.bpi vcl.bpi"/>
+    <PATHCPP value=".;Interface\Controls;FAMA\MIDI;FAMA\MIDI;FAMA\MIDI;MaximumMidi;MaximumMidi;MaximumMidi;MaximumMidi;MaximumMidi;CInBalada\RhythmPattern;CInBalada\RhythmPattern;Util;CInBalada\RhythmPattern;FAMA\MIDI;CInBalada\RhythmPattern"/>
+    <PATHPAS value=".;"/>
+    <PATHRC value=".;"/>
+    <PATHASM value=".;"/>
+    <DEBUGLIBPATH value="$(BCB)\lib\debug"/>
+    <RELEASELIBPATH value="$(BCB)\lib\release"/>
+    <LINKER value="ilink32"/>
+    <USERDEFINES value="_DEBUG"/>
+    <SYSDEFINES value="_RTLDLL;NO_STRICT;USEPACKAGES"/>
+    <MAINSOURCE value="CinbaladaComponents.cpp"/>
+    <INCLUDEPATH value="Util;CInBalada\RhythmPattern;MaximumMidi;CInBalada\RhythmPatternInfo;FAMA\MIDI;CInBalada;Interface\Controls;..\..\MaximumMidi;..\..\CInBalada\RhythmPatternInfo;..\..\FAMA\MIDI;..\..\CInBalada;$(BCB)\include;$(BCB)\include\vcl;..\.."/>
+    <LIBPATH value="Util;CInBalada\RhythmPattern;MaximumMidi;CInBalada\RhythmPatternInfo;FAMA\MIDI;CInBalada;Interface\Controls;..\..\MaximumMidi;..\..\CInBalada\RhythmPatternInfo;..\..\FAMA\MIDI;..\..\CInBalada;$(BCB)\lib\obj;$(BCB)\lib"/>
+    <WARNINGS value="-w-par"/>
+    <OTHERFILES value=""/>
+  </MACROS>
+  <OPTIONS>
+    <IDLCFLAGS value="-IUtil -ICInBalada\RhythmPattern -IMaximumMidi 
+      -ICInBalada\RhythmPatternInfo -IFAMA\MIDI -ICInBalada -IInterface\Controls 
+      -I..\..\MaximumMidi -I..\..\CInBalada\RhythmPatternInfo -I..\..\FAMA\MIDI 
+      -I..\..\CInBalada -I$(BCB)\include -I$(BCB)\include\vcl -I..\.. 
+      -src_suffix cpp -D_DEBUG -boa"/>
+    <CFLAG1 value="-Od -Vx -Ve -X- -r- -a8 -b- -k -y -v -vi- -c -tWM"/>
+    <PFLAGS value="-N2objs -N0objs -$YD -$W -$O- -$A8 -v -JPHNE -M"/>
+    <RFLAGS value=""/>
+    <AFLAGS value="/mx /w2 /zd"/>
+    <LFLAGS value="-Iobjs -D&quot;CInBalada Components&quot; -aa -Tpp -x -Gn -Gl -Gi -v"/>
+    <OTHERFILES value=""/>
+  </OPTIONS>
+  <LINKER>
+    <ALLOBJ value="c0pkg32.obj $(PACKAGES) Memmgr.Lib sysinit.obj $(OBJFILES)"/>
+    <ALLRES value="$(RESFILES)"/>
+    <ALLLIB value="$(LIBFILES) $(LIBRARIES) import32.lib cp32mti.lib"/>
+    <OTHERFILES value=""/>
+  </LINKER>
+  <FILELIST>
+      <FILE FILENAME="CinbaladaComponents.cpp" FORMNAME="" UNITNAME="CinbaladaComponents" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CinbaladaComponents.res" FORMNAME="" UNITNAME="CinbaladaComponents.res" CONTAINERID="ResTool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Interface\Controls\RhythmPatternControl.cpp" FORMNAME="" UNITNAME="RhythmPatternControl" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Interface\Controls\FAMA\MIDI\Interface\RepertoireEditor\CInBalada\CInBalada\RhythmPattern\CInBalada\RhythmPattern\FAMA\MIDI\Util\rtl.bpi" FORMNAME="" UNITNAME="rtl" CONTAINERID="BPITool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Interface\Controls\FAMA\MIDI\Interface\RepertoireEditor\CInBalada\CInBalada\RhythmPattern\CInBalada\RhythmPattern\FAMA\MIDI\Util\vcl.bpi" FORMNAME="" UNITNAME="vcl" CONTAINERID="BPITool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FAMA\MIDI\FmMidiFile.cpp" FORMNAME="" UNITNAME="FmMidiFile" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FAMA\MIDI\FmMidiEvent.cpp" FORMNAME="" UNITNAME="FmMidiEvent" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FAMA\MIDI\FmMidiFileTrack.cpp" FORMNAME="" UNITNAME="FmMidiFileTrack" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="MaximumMidi\MaxMidiScore.cpp" FORMNAME="" UNITNAME="MaxMidiScore" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="MaximumMidi\MaxMidiSMF.cpp" FORMNAME="" UNITNAME="MaxMidiSMF" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="MaximumMidi\MaxMidiTrack.cpp" FORMNAME="" UNITNAME="MaxMidiTrack" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="MaximumMidi\MaxMidiIn.cpp" FORMNAME="" UNITNAME="MaxMidiIn" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="MaximumMidi\maxmidi.cpp" FORMNAME="" UNITNAME="maxmidi" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CInBalada\RhythmPattern\CbRhythmPattern.cpp" FORMNAME="" UNITNAME="CbRhythmPattern" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CInBalada\RhythmPattern\CbRhythmPatternInfo.cpp" FORMNAME="" UNITNAME="CbRhythmPatternInfo" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Util\MathUtil.cpp" FORMNAME="" UNITNAME="MathUtil" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CInBalada\RhythmPattern\CbRhythmPatternSequencer.cpp" FORMNAME="" UNITNAME="CbRhythmPatternSequencer" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FAMA\MIDI\FmMidiOutput.cpp" FORMNAME="" UNITNAME="FmMidiOutput" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CInBalada\RhythmPattern\CbMeter.cpp" FORMNAME="" UNITNAME="CbMeter" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+  </FILELIST>
+  <BUILDTOOLS>
+  </BUILDTOOLS>
+
+  <IDEOPTIONS>
+[Version Info]
+IncludeVerInfo=1
+AutoIncBuild=0
+MajorVer=1
+MinorVer=0
+Release=0
+Build=0
+Debug=0
+PreRelease=0
+Special=0
+Private=0
+DLL=0
+Locale=1046
+CodePage=1252
+
+[Version Info Keys]
+CompanyName=
+FileDescription=
+FileVersion=1.0.0.0
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=
+ProductVersion=1.0.0.0
+Comments=
+
+[HistoryLists\hlIncludePath]
+Count=5
+Item0=Util;CInBalada\RhythmPattern;MaximumMidi;CInBalada\RhythmPatternInfo;FAMA\MIDI;CInBalada;Interface\Controls;..\..\MaximumMidi;..\..\CInBalada\RhythmPatternInfo;..\..\FAMA\MIDI;..\..\CInBalada;$(BCB)\include;$(BCB)\include\vcl;..\..
+Item1=MaximumMidi;CInBalada\RhythmPatternInfo;FAMA\MIDI;CInBalada;Interface\Controls;..\..\MaximumMidi;..\..\CInBalada\RhythmPatternInfo;..\..\FAMA\MIDI;..\..\CInBalada;$(BCB)\include;$(BCB)\include\vcl;..\..
+Item2=..\..\MaximumMidi;..\..\CInBalada\RhythmPatternInfo;..\..\FAMA\MIDI;..\..\CInBalada;$(BCB)\include;$(BCB)\include\vcl;..\..
+Item3=$(BCB)\include;$(BCB)\include\vcl;d:\projetos\cinbaladax
+Item4=$(BCB)\include;$(BCB)\include\vcl
+
+[HistoryLists\hlLibraryPath]
+Count=4
+Item0=Util;CInBalada\RhythmPattern;MaximumMidi;CInBalada\RhythmPatternInfo;FAMA\MIDI;CInBalada;Interface\Controls;..\..\MaximumMidi;..\..\CInBalada\RhythmPatternInfo;..\..\FAMA\MIDI;..\..\CInBalada;$(BCB)\lib\obj;$(BCB)\lib
+Item1=MaximumMidi;CInBalada\RhythmPatternInfo;FAMA\MIDI;CInBalada;Interface\Controls;..\..\MaximumMidi;..\..\CInBalada\RhythmPatternInfo;..\..\FAMA\MIDI;..\..\CInBalada;$(BCB)\lib\obj;$(BCB)\lib
+Item2=..\..\MaximumMidi;..\..\CInBalada\RhythmPatternInfo;..\..\FAMA\MIDI;..\..\CInBalada;$(BCB)\lib\obj;$(BCB)\lib
+Item3=$(BCB)\lib\obj;$(BCB)\lib
+
+[HistoryLists\hlDebugSourcePath]
+Count=1
+Item0=$(BCB)\source\vcl
+
+[HistoryLists\hlConditionals]
+Count=1
+Item0=_DEBUG
+
+[HistoryLists\hlIntOutputDir]
+Count=1
+Item0=objs
+
+[Debugging]
+DebugSourceDirs=$(BCB)\source\vcl
+
+[Parameters]
+RunParams=
+Launcher=
+UseLauncher=0
+DebugCWD=
+HostApplication=
+RemoteHost=
+RemotePath=
+RemoteLauncher=
+RemoteCWD=
+RemoteDebug=0
+
+[Compiler]
+ShowInfoMsgs=0
+LinkDebugVcl=0
+LinkCGLIB=0
+
+[CORBA]
+AddServerUnit=1
+AddClientUnit=1
+PrecompiledHeaders=1
+
+[Language]
+ActiveLang=
+ProjectLang=
+RootDir=
+
+[Linker]
+LibPrefix=
+LibSuffix=
+LibVersion=
+  </IDEOPTIONS>
+</PROJECT>

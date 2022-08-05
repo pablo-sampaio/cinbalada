@@ -1,0 +1,4 @@
+<RhythmicProject name="unnamed" tempo="103" meter-index="0" num-bars="4" auto-repeat="false">
+    <PercussionistAgent name="agogo" instrument="agogo" default-role="base-complementar" />
+    <PercussionistAgent name="bumbo" instrument="bumbo" default-role="base" />
+</RhythmicProject>
